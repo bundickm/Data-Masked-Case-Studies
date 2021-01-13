@@ -3,3 +3,7 @@ Case Studies from the [Data Masked](https://datamasked.com/) book. I won't be pr
 
 ## Case Studies
 1. [Optimizing Conversion Rate](https://github.com/bundickm/Data-Masked-Case-Studies/blob/main/01.%20Optimizing_Conversion_Rate.ipynb)
+2.
+3.
+4.
+5. [Funnel Analysis](https://github.com/bundickm/Data-Masked-Case-Studies/blob/main/05.%20Funnel_Analysis.ipynb)
