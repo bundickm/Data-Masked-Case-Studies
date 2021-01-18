@@ -5,5 +5,5 @@ Case Studies from the [Data Masked](https://datamasked.com/) book. I won't be pr
 1. [Optimizing Conversion Rate](https://github.com/bundickm/Data-Masked-Case-Studies/blob/main/01.%20Optimizing_Conversion_Rate.ipynb)
 2. [A/B Testing - Website Spanish Translations](https://github.com/bundickm/Data-Masked-Case-Studies/blob/main/02.%20Spanish_Translation_A_B_Testing.ipynb)
 3. [Employee Retention](https://github.com/bundickm/Data-Masked-Case-Studies/blob/main/03.%20Employee_Retention.ipynb)
-4.
+4. [Identifying Fraudulent Activity](https://github.com/bundickm/Data-Masked-Case-Studies/blob/main/04.%20Identifying_Fraudulent_Activity.ipynb)
 5. [Funnel Analysis](https://github.com/bundickm/Data-Masked-Case-Studies/blob/main/05.%20Funnel_Analysis.ipynb)
